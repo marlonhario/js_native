@@ -1,0 +1,66 @@
+JavaScript Project - 1 Change Background Color
+	-generate random RGB colours
+
+JavaScript Project - 2 Create Hex Colour
+	-generate random Hex Colours
+
+JavaScript Project - 3 Radnom Quotes
+	-generate random quotes
+
+JavaScript Project - 4 Pass The Message
+	-generate last pass message
+	-integrate two seconds warning(using setTimeout()) if no message input when the submit button was clicked.
+	-after submitted the input field will be emptied.
+	-predefined functions:
+		-setTimeout
+
+JavaScript Project - 5 Counter
+	-generate number using click button: adding and decreasing number.
+	-change background depending on number if it is nega, pos or zero.
+
+JavaScript Project - 6 Background Image Slider
+	-generate a slider with button next and previous 
+
+JavaScript Project - 7 Testimoinials Slider
+
+JavaScript Project - 8 Filter Image Items
+	-generate item that has a specific categories
+	-generate seach box using keyup event
+	-GUI is much like shop cart
+
+JavaScript Project - 9 Modal Project
+
+JavaScript Project - 10 Calculator
+
+JavaScript Project - 11 To Do List
+
+JavaScript Project - 12 Tip Calculator/calculations
+
+JavaScript Project - 13 Shopping Cart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
